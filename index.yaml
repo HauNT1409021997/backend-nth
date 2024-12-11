@@ -1,0 +1,18 @@
+apiVersion: v1
+entries:
+  backend:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2024-12-11T20:17:42.309139+07:00"
+    dependencies:
+    - name: postgresql
+      repository: https://charts.bitnami.com/bitnami
+      version: 16.2.2
+    description: A Helm chart for deploying a backend app
+    digest: 783b98e013102ee02e095d448e6d6a19ead54395c6a1933b1cac76ae1c4b39fd
+    name: backend
+    type: application
+    urls:
+    - backend-1.0.0.tgz
+    version: 1.0.0
+generated: "2024-12-11T20:17:42.3006241+07:00"
